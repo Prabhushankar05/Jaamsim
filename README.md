@@ -65,6 +65,5 @@ The optimization achieved a significant reduction in average customer wait times
 
 ## Contact Information
 For further questions or details, please contact:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **Phone**: [Your Phone Number]
+- **Name**: [Prabhu Shankar]
+- **Email**: [prabhushankargv@gmail.com]
